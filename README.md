@@ -47,16 +47,8 @@
 ###
 <div align="center">
   
-  <img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif" alt="Chrome Dino" />
+  <img src="https://raw.githubusercontent.com/WoodMMK/WoodMMK/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Maimongkol%20Thokanokwan&theme=dark" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 
 
