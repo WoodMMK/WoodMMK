@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">⚙My name is Woody and I'm a Computer engineering student at Mahidol University</p>
+<p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. ⚙</p>
 
 ###
 
@@ -29,22 +29,26 @@
 </div>
 
 ###
-
-<h2 align="left">Connect with me</h2>
+<!-- 
+<h2 align="left">Find me here</h2>
 
 ###
 
 <div align="left">
+  <a href="https://your-social-media-link" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
 </div>
-
+-->
 ###
-
-<img src="https://raw.githubusercontent.com/WoodMMK/WoodMMK/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  
+  <img align="center" src="https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif" alt="Chrome Dino" />
+</div>
 
 ###
 
