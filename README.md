@@ -3,15 +3,13 @@
 ###
 
 <h2 align="left">About me</h2>
-<img align="right" height="200" src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif"  />
+<img align="right" height="300" src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif"  />
 
 ###
 
-<p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. ⚙</p>
-
-###
-
-<p align="left">📚 I'm currently learning Cyber security & Smart contract 📄<br>💡 Fun face : I play table tennis, volleyball, and the keyboard. 🏓🏐🎹</p>
+<p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. 🖥⚙</p>
+<p align="left">📚 I'm currently learning Cyber security & Smart contract 🔒 📜</p>
+<p>💡 Fun face : I play table tennis, volleyball, and the keyboard. 🏓🏐🎹</p>
 
 
 ###
