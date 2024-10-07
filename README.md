@@ -3,7 +3,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<img align="right" height="300" src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif"  />
+<img align="right" height="250" src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif"  />
 
 ###
 
@@ -44,10 +44,11 @@
 -->
 ###
 
-<div align="center">
+<div style="display: flex; justify-content: space-between;" >
   
-  <img src="https://github-readme-stats.vercel.app/api?username=WoodMMK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WoodMMK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" width="40%" alt="stats graph"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" width="38%" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/WoodMMK/WoodMMK/output/snake.svg" alt="Snake animation" />
   
 </div>
