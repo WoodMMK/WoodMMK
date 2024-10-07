@@ -1,22 +1,26 @@
-<h1 align="left">Hello everyone! 👋 </h1>
+<h1 align="left">Hello everyone! 👋 </h1> 
 
-###
+<div style="display: flex; ">
+  <img align=right width=15% src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif" />
+  <p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. ⚙</p>
+  <p align="left"> I'm currently learning Cyber security & Smart contract  </p>
+  <p align="left"> Fun face : I play table tennis, volleyball, and the keyboard. </p>
+  
+</div>
 
-<h2 align="left">About me</h2>
-<img align="right" height="250" src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif"  />
 
-###
-
+<!-- 
 <p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. 🖥⚙</p>
 <p align="left">📚 I'm currently learning Cyber security & Smart contract 🔒 📜</p>
 <p>💡 Fun face : I play table tennis, volleyball, and the keyboard. 🏓🏐🎹</p>
+<img align="right" height="250" src="https://media1.tenor.com/m/3qDw5i6bwGUAAAAC/dm4uz3-nichijou.gif"  />
+-->
 
 
-###
+
 
 <h2 align="left">I code with</h2>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
