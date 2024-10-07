@@ -34,9 +34,9 @@
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=WoodMMK&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" width="40%" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=WoodMMK&hide_title=false&hide_rank=false&include_all_commits=true&show_icons=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" width="40%" alt="stats graph"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" width="38%" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" width="38%" alt="languages graph"/>
   <img src="https://raw.githubusercontent.com/WoodMMK/WoodMMK/output/snake.svg" alt="Snake animation" />
 
 </div>
