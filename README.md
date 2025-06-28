@@ -3,8 +3,7 @@
 <div style="display: flex; ">
   <img align="right" src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="image description" width="30%">
   <p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. 🖥⚙</p>
-  <p align="left"> 📚 I'm currently learning Cyber security🔒 </p>
-  <p align="left"> 💡 Fun face : I play table tennis, volleyball, and the keyboard. 🏓🏐🎹 </p>
+  <p align="left"> 💡 Fun fact : I play table tennis, volleyball, and the keyboard. 🏓🏐🎹 </p>
 </div>
 
 
