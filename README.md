@@ -1,6 +1,6 @@
-<img align="right" src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="cat gif" width="22%">
+### Hey, I'm Woody 👋
 
-# Hey, I'm Woody 👋
+<img align="right" src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="cat gif" width="20%">
 
 Computer engineering student at **Mahidol University** 🖥⚙
 
