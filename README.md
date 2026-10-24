@@ -1,15 +1,12 @@
-<table>
-  <tr>
-    <td valign="middle">
-      <h1>Hey, I'm Woody 👋</h1>
-      <p>Computer engineering student at <b>Mahidol University</b> 🖥⚙</p>
-      <p>🏓 table tennis &nbsp;·&nbsp; 🏐 volleyball &nbsp;·&nbsp; 🎹 keyboard</p>
-    </td>
-    <td valign="middle" align="center" width="25%">
-      <img src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="cat gif" width="100%">
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="cat gif" width="22%">
+
+# Hey, I'm Woody 👋
+
+Computer engineering student at **Mahidol University** 🖥⚙
+
+🏓 table tennis &nbsp;·&nbsp; 🏐 volleyball &nbsp;·&nbsp; 🎹 keyboard
+
+<br clear="both">
 
 <br>
 
