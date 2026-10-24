@@ -1,48 +1,69 @@
-<h1 align="left">Hello everyone! 👋 </h1> 
+<table>
+  <tr>
+    <td valign="middle">
+      <h1>Hey, I'm Woody 👋</h1>
+      <p>Computer engineering student at <b>Mahidol University</b> 🖥⚙</p>
+      <p>🏓 table tennis &nbsp;·&nbsp; 🏐 volleyball &nbsp;·&nbsp; 🎹 keyboard</p>
+    </td>
+    <td valign="middle" align="center" width="25%">
+      <img src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="cat gif" width="100%">
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex; ">
-  <img align="right" src="https://i.pinimg.com/originals/3c/40/49/3c4049aa2d32a8141729b96bc3883943.gif" alt="image description" width="20%">
-  <p align="left">My name is Woody and I'm a Computer engineering student at Mahidol University. 🖥⚙</p>
-  <p align="left"> 💡 Fun fact : I play table tennis, volleyball, and the keyboard. 🏓🏐🎹 </p>
-</div>
+<br>
 
-
-<h2 align="left">I code with</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="left">
-  
+<p align="left">
   <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2">
-  
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2">
-  
-  <img alt="languages graph" src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" width="38%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=58a6ff&text_color=c9d1d9&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&layout=compact&card_width=320&langs_count=5&theme=transparent&title_color=0969da&text_color=24292f&hide_border=true">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=WoodMMK&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true" width="38%">
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/?username=WoodMMK&show_icons=true&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/?username=WoodMMK&show_icons=true&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/?username=WoodMMK&show_icons=true&theme=transparent&hide_border=true" width="48%">
+  </picture>
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WoodMMK/WoodMMK/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WoodMMK/WoodMMK/manual-run-output/only-svg/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/WoodMMK/WoodMMK/manual-run-output/only-svg/github-contribution-grid-snake.svg" width="100%">
 </picture>
-</div>
 
-<!--
-Upcoming
-Blog on medium and write ups
 
-<h2 align="left">Find me here</h2>
-<div align="left">
-  <a href="https://medium.com/@woodymaimongkol" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+## 🚀 Projects
+
+<p align="left">
+  <a href="https://github.com/WoodMMK/seminar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=seminar&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true">
+      <img alt="seminar" src="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=seminar&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true" width="48%">
+    </picture>
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
-</div>
--->
+  <a href="https://github.com/WoodMMK/punch-kick-duck-bot">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=punch-kick-duck-bot&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true">
+      <img alt="punch-kick-duck-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=punch-kick-duck-bot&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true" width="48%">
+    </picture>
+  </a>
+  <a href="https://github.com/WoodMMK/discord-stock-alert">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=discord-stock-alert&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true">
+      <img alt="discord-stock-alert" src="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=discord-stock-alert&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true" width="48%">
+    </picture>
+  </a>
+  <a href="https://github.com/WoodMMK/Java-game-project">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=Java-game-project&theme=transparent&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&hide_border=true">
+      <img alt="Java-game-project" src="https://github-readme-stats.vercel.app/api/pin/?username=WoodMMK&repo=Java-game-project&theme=transparent&title_color=0969da&text_color=24292f&icon_color=0969da&hide_border=true" width="48%">
+    </picture>
+  </a>
+</p>
 
 
-###
+<br>
+
+<p align="center"><sub>✍️ Find my write-ups on <a href="https://medium.com/@woodymaimongkol">Medium</a></sub></p>
